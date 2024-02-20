@@ -1,0 +1,42 @@
+#destination-love {
+    min-height: 100vh;
+    background-color: white;
+}
+
+.context-heading {
+    font-size: 3rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    font-family: "Lzilita One" cursive;
+    letter-spacing: .2rem;
+    text-align: center;
+}
+
+.love-card img {
+    height: 272px;
+    width: 272px; 
+    
+}
+
+.love-card {
+    width: 30%;
+    height: 10%; 
+    border-radius: 10px;
+    /* margin-left: 5%; */
+    position: relative;
+    margin: 5% auto;
+    text-align: center;
+
+}
+/* #destination-love .love-card {
+    text-align: center !important;
+} */
+
+.love-card .title {
+    border-color:transparent;
+    color:white;
+    position: absolute;
+    bottom:10%;
+    left: 17%; 
+
+}

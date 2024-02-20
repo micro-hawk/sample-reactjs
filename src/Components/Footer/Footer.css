@@ -1,0 +1,19 @@
+#footer-section {
+    
+    background-color: #024E43;
+    height: auto;
+    color: aliceblue;
+    
+}
+
+.footer-icon {
+    margin:2% 2% 0 2%;
+
+}
+.footer-item {
+    padding:5% 3% 0 3%;
+}
+.footer-credits-section {
+    background-color:#024E43;
+    text-align: center;
+}

@@ -1,0 +1,16 @@
+
+.app-body{
+  /* position: relative; */
+  top:0;
+  left:0;
+  background-color: #CAD3DA !important;
+  font-family: 'Lilita One', cursive;
+}
+
+.hero-banner,.header-section{
+  width: 100%;
+  
+}
+.hero-next-section {
+  background-color: linear-gradient(180deg, rgba(186, 194, 201)), rgba(227, 253, 253);
+}

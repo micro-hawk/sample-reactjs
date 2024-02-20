@@ -1,0 +1,33 @@
+.row {
+    width: 100%;
+}
+
+.HeaderSticky {
+    overflow: hidden;
+    background-color: #CAD3DA;
+    z-index: 100;
+
+}
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+.HeaderFeatureGroup {
+    margin-right: 2%;
+    display: flex;
+    margin-left: auto;
+}
+.HeaderNav {
+    display: flex;
+
+}
+.HeaderFeatureLogo {
+    font-size: 3rem;
+}
+.HeaderFeatureGroupDiv {
+    margin-top: 6%;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}

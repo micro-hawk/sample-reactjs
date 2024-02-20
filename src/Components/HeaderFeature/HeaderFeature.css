@@ -1,0 +1,13 @@
+.HeaderFeature {
+    padding: 0 1%;
+    width: 100px;
+    display: inline-block;
+   
+}
+
+.HeaderFeature span,i {
+    padding: 0 5px;
+    color:black;
+    
+    
+}
